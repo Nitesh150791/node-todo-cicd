@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: node-container
-      image: trainwithshubham/node-app-batch-6
+      image: public.ecr.aws/n5i9c7k0/todo:latest
       ports:
         - containerPort: 8000
