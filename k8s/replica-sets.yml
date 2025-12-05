@@ -20,4 +20,4 @@ spec:
     spec:
       containers:
       - name: node-container-rep
-        image: public.ecr.aws/n5i9c7k0/todo:latest
+        image: public.ecr.aws/o6c0o7l6/todo:latest
