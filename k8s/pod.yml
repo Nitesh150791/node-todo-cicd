@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: node-container
-      image: \public.ecr.aws/o6c0o7l6/todo:latest
+      image: public.ecr.aws/o6c0o7l6/todo:latest
       ports:
         - containerPort: 8000
